@@ -9,7 +9,7 @@
     <licenseUrl>https://github.com/tcartwright/QueryPlanGenerator.EntityFramework/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/tcartwright/QueryPlanGenerator.EntityFramework</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>The QueryPlanGenerator.EntityFramework will generate sql server execution plans for entity framework call. By default the plans will get saved to the file system.</description>
+    <description>The QueryPlanGenerator.EntityFramework will generate sql server execution plans for entity framework applications. By default the plans will get saved to the file system.</description>
 		<releaseNotes>
       VERSION 1.0.0:
       - Initial production release
